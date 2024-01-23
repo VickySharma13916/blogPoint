@@ -40,22 +40,22 @@ const Footer = ({ getFooterData }) => {
               <div className="font-semibold mb-5">We’re social</div>
               <div className="flex gap-5">
                 <span>
-                  <Link to="https://www.linkedin.com/company/turacoz-healthcare-solutions/">
+                  <Link to="https://www.linkedin.com/company/Blogpoint-healthcare-solutions/">
                     <FaLinkedinIn size={18} />
                   </Link>
                 </span>
                 <span>
-                  <Link to="https://www.facebook.com/turacozhealthcaresolutions/">
+                  <Link to="https://www.facebook.com/Blogpointhealthcaresolutions/">
                     <FaFacebookF size={18} />
                   </Link>
                 </span>
                 <span>
-                  <Link to="https://www.instagram.com/turacoz/">
+                  <Link to="https://www.instagram.com/Blogpoint/">
                     <FaInstagram size={18} />
                   </Link>
                 </span>
                 <span>
-                  <Link to="https://twitter.com/i/flow/login?redirect_after_login=%2Fturacoz">
+                  <Link to="https://twitter.com/i/flow/login?redirect_after_login=%2FBlogpoint">
                     <FaTwitter size={18} />
                   </Link>
                 </span>
@@ -76,20 +76,20 @@ const Footer = ({ getFooterData }) => {
                 Singapore | India | USA | Canada | Netherlands
               </div>
               <div className="text-red-900 text-xl font-semibold">
-                <a href="mailto:info@turacoz.com" className="no-underline">
-                  info@turacoz.com
+                <a href="mailto:info@Blogpoint.com" className="no-underline">
+                  info@Blogpoint.com
                 </a>
               </div>
             </div>
           </div>
           <div className="flex flex-col md:flex-row justify-start md:justify-between items-start md:items-center my-0">
             <div className="text-red-900 md:text-sm md:font-medium text-xl font-semibold px-4 md:p-4">
-              <Link to="https://turacoz.com/generic-privacy-policy/">
+              <Link to="https://Blogpoint.com/generic-privacy-policy/">
                 Terms & Privacy Policy
               </Link>
             </div>
             <div className="md:text-sm md:font-medium text-lg font-semibold p-4">
-              © 2023, Turacoz ALL RIGHTS RESERVED
+              © 2023, Blogpoint ALL RIGHTS RESERVED
             </div>
           </div>
         </footer>

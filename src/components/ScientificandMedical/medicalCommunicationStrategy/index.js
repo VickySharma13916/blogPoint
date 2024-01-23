@@ -187,7 +187,7 @@ const MedicalCommunicationStrategy = () => {
               Branding and Rebranding Activities
             </div>
             <div className="md:text-lg my-8 w-full px-6 md:px-0 md:w-4/5 relative">
-              Turacoz works with a vision to bond your product with HCPs and
+              Blogpoint works with a vision to bond your product with HCPs and
               patients personally. It is crucial to take your message
               effectively to key opinion leaders, healthcare professionals, and
               patients in order to create wider brand awareness, acceptance, and
@@ -230,7 +230,7 @@ const MedicalCommunicationStrategy = () => {
             </div>
             <div className="absolute z-10 top-2/3 px-6 md:px-16 bottom-0 left-0 right-0">
               <div className="md:text-lg text-white w-full md:w-1/2">
-                Turacoz can create digital/non-digital engagement deliverables,
+                Blogpoint can create digital/non-digital engagement deliverables,
                 and business as well as marketing plan for brands through
                 audience-specific tailor-made content.
               </div>
@@ -272,7 +272,7 @@ const MedicalCommunicationStrategy = () => {
               </div>
               <div className="md:text-lg mx-6 md:mx-0 my-12 md:pr-10">
                 The crux of a successful healthcare network is accessibility of
-                scientific data. Evolving with current scenario, we at Turacoz
+                scientific data. Evolving with current scenario, we at Blogpoint
                 understand the need to shift from multichannel to an omnichannel
                 mode of medical marketing, providing all possible cross-channel
                 disciplines and enabling both clinical and non-clinical
@@ -290,7 +290,7 @@ const MedicalCommunicationStrategy = () => {
               </div>
               <div className="absolute z-10 bottom-0 top-0 p-6 md:px-20 lg:px-20 left-0 right-0">
                 <div className="w-full md:w-4/5 lg:w-1/2 md:my-8 md:text-lg text-sm text-white">
-                  With the right kind of strategic partnership, Turacoz can aid
+                  With the right kind of strategic partnership, Blogpoint can aid
                   you in providing better design thinking, digital analytics,
                   and integration of required technology, keeping in mind both
                   digital and physical environments, to strike the right

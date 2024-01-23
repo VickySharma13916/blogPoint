@@ -40,7 +40,7 @@ const About = () => {
       image: child,
       title: "Child Rights",
       description:
-        "Turacoz supports and donates to Child Rights and You (CRY) to enable the children to attain their full potential.",
+        "Blogpoint supports and donates to Child Rights and You (CRY) to enable the children to attain their full potential.",
     },
     {
       image: women,
@@ -93,7 +93,7 @@ const About = () => {
           <div className="bg-[#f2f2f2] w-full relative">
             <div className="container px-6 xl:px-0 mx-auto">
               <h2 className="md:text-[45px] lg:text-[30px] text-[26px] pt-8 pb-8 md:pb-16 font-semibold">
-                Tenets of Turacoz
+                Tenets of Blogpoint
               </h2>
               <div className="flex md:flex-row flex-col justify-between pb-16 gap-12">
                 <ul className="list-outside ml-4 md:ml-0 text-[17px] md:w-1/2">
@@ -121,7 +121,7 @@ const About = () => {
                     CNS, ophthalmology, obstetrics and gynecology, dermatology,
                     pediatrics, nutrition, nephrology, and rare diseases.
                     <br />
-                    In the field of medical devices and diagnostics, Turacoz has
+                    In the field of medical devices and diagnostics, Blogpoint has
                     worked on cardiac interventions (stents and pacemakers),
                     orthopedics (joint replacement), auditory devices,
                     ophthalmology, and dentistry. We provide support for

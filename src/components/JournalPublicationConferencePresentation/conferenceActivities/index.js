@@ -111,7 +111,7 @@ const ConferenceActivities = () => {
           <div className=" w-full  relative">
             <div className="container mx-auto py-4 md:py-12">
               <h2 className="my-4 md:my-12 mx-6 md:mx-0 md:text-2xl border-l px-8 border-red-800">
-                Turacoz provides support for stand-alone abstract development
+                Blogpoint provides support for stand-alone abstract development
                 from start to abstract submission and follows up with congress
                 for decisions. Our services include but not limited to:
               </h2>
@@ -137,7 +137,7 @@ const ConferenceActivities = () => {
             <div className="container mx-auto py-12">
               <div className="flex md:flex-row flex-col justify-between pt-8">
                 <h2 className="md:text-2xl px-6 md:px-0 md:w-1/2 w-full">
-                  Turacoz can help you in the following pre-conference
+                  Blogpoint can help you in the following pre-conference
                   activities:
                 </h2>
                 <ul className="list-outside flex-col mt-4 md:mt-0 mb-12 md:w-1/2 w-full flex justify-between px-6 md:px-0">
@@ -248,7 +248,7 @@ const ConferenceActivities = () => {
                   ))}
               </div>
               <div className="md:text-lg px-6 md:px-0 mb-8">
-                Turacoz can help you to curate the congress discussions and
+                Blogpoint can help you to curate the congress discussions and
                 abstract information from congress for a therapeutic area or a
                 product.
               </div>

@@ -105,7 +105,7 @@ const RealWorldEvidenceAndClinicalTrailServices = () => {
           <div className=" w-full bg-gray-100  relative">
             <div className="container mx-auto py-4 md:py-12">
               <h3 className="my-8 mx-6 md:mx-0 md:my-12 md:text-2xl border-l px-8 border-red-800">
-                At Turacoz, we help pharmaceutical companies with end-to-end
+                At Blogpoint, we help pharmaceutical companies with end-to-end
                 support for conducting real-world studies.
               </h3>
               <div className="md:text-lg mx-6 md:mx-0">

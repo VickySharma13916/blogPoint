@@ -131,7 +131,7 @@ const WebinarTabInfo = ({ handleWebinarDetail }) => {
                 <title>
                   {data?.metaTitle
                     ? data?.metaTitle
-                    : "Webinar | Turacoz Healthcare Solutions"}
+                    : "Webinar | Blogpoint Healthcare Solutions"}
                 </title>
                 {data?.metaDescription && (
                   <meta name="description" content={data?.metaDescription} />
@@ -154,7 +154,7 @@ const WebinarTabInfo = ({ handleWebinarDetail }) => {
                 )}
                 <meta property="og:url" content={currentURL} />
                 <meta property="og:type" content="Webinar" />
-                <meta name="twitter:site" content="@turacoz" />
+                <meta name="twitter:site" content="@Blogpoint" />
                 <meta property="twitter:card" content="summary_large_image" />
                 {data?.metaTitle && (
                   <meta name="twitter:title" content={data?.metaTitle} />
@@ -460,7 +460,7 @@ const WebinarTabInfo = ({ handleWebinarDetail }) => {
                           )}
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.email}
@@ -468,7 +468,7 @@ const WebinarTabInfo = ({ handleWebinarDetail }) => {
                           </div>
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.alternateEmail}

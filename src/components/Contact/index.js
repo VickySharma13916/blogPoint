@@ -50,9 +50,9 @@ const Contact = () => {
                 </h3>
                 <a
                   className="font-normal no-underline text-[15px] text-[#941D20] cursor-pointer"
-                  href="mailto:info@turacoz.com"
+                  href="mailto:info@Blogpoint.com"
                 >
-                  info@turacoz.com
+                  info@Blogpoint.com
                 </a>
               </div>
               <div className="flex flex-col py-8 px-12 text-center h-36  bg-[#941D20] text-white">
@@ -70,9 +70,9 @@ const Contact = () => {
                 </h3>
                 <a
                   className="font-normal no-underline text-[15px] text-[#941D20] cursor-pointer"
-                  href="mailto:trainings@turacoz.com"
+                  href="mailto:trainings@Blogpoint.com"
                 >
-                  trainings@turacoz.com
+                  trainings@Blogpoint.com
                 </a>
               </div>
               <div className="flex flex-col py-8 px-12 text-center h-36 bg-[#9E1B1E] text-white">
@@ -91,9 +91,9 @@ const Contact = () => {
                 </h3>
                 <a
                   className="font-normal no-underline text-[15px] text-[#941D20] cursor-pointer"
-                  href="mailto:careers@turacoz.com"
+                  href="mailto:careers@Blogpoint.com"
                 >
-                  careers@turacoz.com
+                  careers@Blogpoint.com
                 </a>
               </div>
               <div className="flex flex-col py-8 px-12 text-center h-36 bg-[#941D20] text-white">
@@ -110,9 +110,9 @@ const Contact = () => {
                 </h3>
                 <a
                   className="font-normal no-underline text-[15px] text-[#941D20] cursor-pointer"
-                  href="mailto:partners@turacoz.com"
+                  href="mailto:partners@Blogpoint.com"
                 >
-                  partners@turacoz.com
+                  partners@Blogpoint.com
                 </a>
               </div>
               <div className="flex flex-col py-8 px-12 text-center h-36 bg-[#9E1B1E] text-white">

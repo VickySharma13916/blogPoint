@@ -95,7 +95,7 @@ const PublicationSupport = () => {
                 formalities.
               </h2>
               <h6 className="my-12 mx-6 md:mx-0 md:text-2xl border-l px-8 border-red-800">
-                Turacoz has helped several international clients and their
+                Blogpoint has helped several international clients and their
                 authors in these administrative activities as well.
               </h6>
             </div>

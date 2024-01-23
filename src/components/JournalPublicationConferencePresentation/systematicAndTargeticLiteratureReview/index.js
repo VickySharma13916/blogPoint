@@ -164,7 +164,7 @@ const SystematiAndTargetedLiteratureReview = () => {
           <div className="w-full bg-gray-100">
             <div className="container mx-auto">
               <div className="md:text-xl pt-12 mx-6 md:mx-0">
-                At Turacoz, we can help in developing both targeted literature
+                At Blogpoint, we can help in developing both targeted literature
                 reviews and systematic literature reviews.
               </div>
               <h2 className="md:text-2xl text-lg mx-6 md:mx-0 pt-12">

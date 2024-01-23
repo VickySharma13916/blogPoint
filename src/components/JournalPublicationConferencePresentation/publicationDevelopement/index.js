@@ -40,7 +40,7 @@ const PublicationDevelopement = () => {
                   Publication Development
                 </h1>
                 <h3 className="md:text-lg text-sm my-4 md:w-3/5 w-full">
-                  Turacoz writing team can help you in end-to-end publication
+                  Blogpoint writing team can help you in end-to-end publication
                   writing, from target journal selection and presubmission
                   enquiries to author debarment checks, author invitations,
                   project kick-off calls, manuscript writing, addressing author

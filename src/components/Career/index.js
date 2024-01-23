@@ -96,7 +96,7 @@ const Career = ({ fetchCarrerList }) => {
     {
       id: 4,
       content:
-        "At Turacoz, your work will have a direct impact on healthcare professionals and patients worldwide. By effectively communicating scientific information, you’ll contribute to improving patient outcomes, advancing medical research, and driving positive change in the industry.",
+        "At Blogpoint, your work will have a direct impact on healthcare professionals and patients worldwide. By effectively communicating scientific information, you’ll contribute to improving patient outcomes, advancing medical research, and driving positive change in the industry.",
       author: "Impactful Worke",
     },
     {
@@ -129,7 +129,7 @@ const Career = ({ fetchCarrerList }) => {
   //     title: "Associate/Sr. Associate - Business Development",
   //     desc: "Description:",
   //     description:
-  //       "In order to drive our aggressive growth plans, we are looking to hire smart, entrepreneurial people who can help identify and develop new business opportunities for us. In addition to business development, the candidate would also be responsible for handling key clients. The candidate would be a part of our marketing team to market Turacoz’s services to prospective clients across the globe.",
+  //       "In order to drive our aggressive growth plans, we are looking to hire smart, entrepreneurial people who can help identify and develop new business opportunities for us. In addition to business development, the candidate would also be responsible for handling key clients. The candidate would be a part of our marketing team to market Blogpoint’s services to prospective clients across the globe.",
   //     description1:
   //       "Candidate will get a chance to get hands-on experience on multiple BD activities and grow professionally each day.",
   //     responsibility: "Primary Responsibility",
@@ -226,9 +226,9 @@ const Career = ({ fetchCarrerList }) => {
   //   {
   //     title: "QC Specialist",
   //     description:
-  //       "Turacoz is a medical communications company which provides customized and cost effective solutions for medical writing. The team of young, dynamic, and energetic professionals contribute to the core service spectrum which includes publication writing; clinical research and regulatory writing; print and digital marketing solutions; and medical content development for physicians, key opinion leaders, education institutes, pharmaceutical organizations, or any other healthcare professionals. The team members are from diverse backgrounds who work together with the aim of delivering high standard scientific communications services to the clients.",
+  //       "Blogpoint is a medical communications company which provides customized and cost effective solutions for medical writing. The team of young, dynamic, and energetic professionals contribute to the core service spectrum which includes publication writing; clinical research and regulatory writing; print and digital marketing solutions; and medical content development for physicians, key opinion leaders, education institutes, pharmaceutical organizations, or any other healthcare professionals. The team members are from diverse backgrounds who work together with the aim of delivering high standard scientific communications services to the clients.",
   //     description1:
-  //       "Turacoz also conducts medical writing training workshops to keep the medical fraternity updated on the current guidelines, ethical issues, and importance of writing accurate medical content for the healthcare industry.",
+  //       "Blogpoint also conducts medical writing training workshops to keep the medical fraternity updated on the current guidelines, ethical issues, and importance of writing accurate medical content for the healthcare industry.",
   //     responsibility: " Role and Responsibilities: ",
   //     Responsibilitylist: [
   //       "Quality control of all deliverables: To conduct QC of all deliverables for the company, not limited to client deliverables and provide the findings in appropriate checklists in a timely manner.",
@@ -296,7 +296,7 @@ const Career = ({ fetchCarrerList }) => {
                 Careers
               </h1>
               <h3 className="text-[17px] md:text-xl my-4 xl:w-2/3 w-full">
-                At Turacoz, we are a leading global provider of innovative
+                At Blogpoint, we are a leading global provider of innovative
                 healthcare communication solutions. We work with pharmaceutical
                 companies, medical device manufacturers, research institutes,
                 and healthcare organizations to deliver high-quality scientific
@@ -311,7 +311,7 @@ const Career = ({ fetchCarrerList }) => {
               <h6 className="text-[17px] md:text-xl py-6 md:px-4">
                 Are you passionate about making a meaningful impact in the
                 healthcare industry? Do you thrive in a dynamic and
-                collaborative work environment? If so, Turacoz Healthcare
+                collaborative work environment? If so, Blogpoint Healthcare
                 Solutions is the perfect place for you to grow and excel in your
                 career!
               </h6>
@@ -348,7 +348,7 @@ const Career = ({ fetchCarrerList }) => {
             </div>
             <div className="text-[17px] md:text-xl">
               Explore current openings and learn more about the rewarding career
-              paths available at Turacoz.
+              paths available at Blogpoint.
             </div>
             <h2 className="text-[26px] md:text-[30px] lg:text-[45px] py-4 md:text-5xl font-bold">
               Our Departments
@@ -374,7 +374,7 @@ const Career = ({ fetchCarrerList }) => {
             </div>
             <div className="text-xl md:my-12">
               Explore current openings and learn more about the rewarding career
-              paths available at Turacoz.
+              paths available at Blogpoint.
             </div>
             <div className="flex flex-col mt-12 gap-4 md:gap-12">
               {carrerData &&

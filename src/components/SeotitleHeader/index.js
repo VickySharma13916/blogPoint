@@ -24,7 +24,7 @@ const SeoHeaderTitle = ({ pageData }) => {
       <link rel="canonical" href={currentURL} />
       <meta property="og:url" content={currentURL} />
       <meta property="og:type" content="website" />
-      <meta name="twitter:site" content="@turacoz" />
+      <meta name="twitter:site" content="@Blogpoint" />
       <meta property="twitter:card" content="summary_large_image" />
       {metaTitle && <meta name="twitter:title" content={metaTitle} />}
       {metaDescription && (

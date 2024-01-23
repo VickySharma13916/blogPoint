@@ -160,10 +160,10 @@ const LifeAtTuracoz = ({ getTeamData, getImageSliderData }) => {
               />
               <div className="flex flex-col text-white absolute top-0 bottom-0 right-0 left-0 z-10 text-left p-6 md:p-10 xl:p-20">
                 <h1 className="xl:text-7xl md:text-4xl text-3xl font-semibold">
-                  Life At Turacoz
+                  Life At Blogpoint
                 </h1>
                 <h3 className="md:text-lg xl:w-2/3 md:1/2 my-4 md:my-8">
-                  At Turacoz, we put our customers at the center of everything
+                  At Blogpoint, we put our customers at the center of everything
                   we do. We use cutting-edge technology, a talented workforce,
                   and efficient processes to drive customer satisfaction and
                   engagement. While we take our work seriously and strive to
@@ -186,13 +186,13 @@ const LifeAtTuracoz = ({ getTeamData, getImageSliderData }) => {
               the world, you’ll be able to enjoy a unique bond with your
               colleagues. On this page, you’ll find the stories of our
               employees, also called <b>Turons</b>, who will share their
-              experiences of how they got to Turacoz, their roles, and some fun
+              experiences of how they got to Blogpoint, their roles, and some fun
               anecdotes.
             </div>
             <div className="md:text-lg my-6 md:my-12 leading-8">
-              At Turacoz, we are proud to offer our employees the flexibility to
+              At Blogpoint, we are proud to offer our employees the flexibility to
               work from anywhere, which contributes to the diversity and beauty
-              of our workplace. So come join us and be a part of the Turacoz
+              of our workplace. So come join us and be a part of the Blogpoint
               story. You might even find yourself featured on this page with a
               story or a picture that’s worth sharing.
             </div>

@@ -96,7 +96,7 @@ const OtherCommunication = () => {
           <div className="w-full">
             <div className="container py-12 relative mx-auto">
               <div className="md:text-lg pr-10 px-6 md:px-0">
-                Through these channels, Turacoz can help you to quickly
+                Through these channels, Blogpoint can help you to quickly
                 communicate the disease severity, treatment options available,
                 latest therapeutic advances and news, patient experiences,
                 regulatory approvals, changing guidelines, and results of your
@@ -129,7 +129,7 @@ const OtherCommunication = () => {
               </div>
               <div className="absolute z-10 flex flex-col justify-center top-0 px-8 md:px-16 bottom-0 left-0 right-0">
                 <div className="text-sm md:text-lg text-white w-full md:w-1/2">
-                  Turacoz comes into effect by providing means for convenient
+                  Blogpoint comes into effect by providing means for convenient
                   communication between HCPs, pharmaceutical/biotech companies,
                   and stakeholders.
                 </div>
@@ -171,7 +171,7 @@ const OtherCommunication = () => {
           <div className="bg-slate-100 w-full">
             <div className="container py-12 relative mx-auto">
               <h4 className="text-2xl pr-10 px-6 md:px-0">
-                With a Brilliant Army of Writers and Designers, Turacoz Can Aid
+                With a Brilliant Army of Writers and Designers, Blogpoint Can Aid
                 You in Better Delivery of Your Clinical Development Through:
               </h4>
               <div className="flex md:flex-row mx-6 md:mx-0 flex-col pt-12">

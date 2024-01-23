@@ -145,7 +145,7 @@ const WorkshopTabInfo = ({ handleWorkshopDetail }) => {
                 )}
                 <meta property="og:url" content={currentURL} />
                 <meta property="og:type" content="workshop" />
-                <meta name="twitter:site" content="@turacoz" />
+                <meta name="twitter:site" content="@Blogpoint" />
                 <meta property="twitter:card" content="summary_large_image" />
                 {data?.metaTitle && (
                   <meta name="twitter:title" content={data?.metaTitle} />
@@ -448,7 +448,7 @@ const WorkshopTabInfo = ({ handleWorkshopDetail }) => {
                           )}
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.email}
@@ -456,7 +456,7 @@ const WorkshopTabInfo = ({ handleWorkshopDetail }) => {
                           </div>
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.alternateEmail}

@@ -1,4 +1,4 @@
-# Turacoz-App
+# Blogpoint-App
 
 Short project description goes here.
 
@@ -23,6 +23,6 @@ Before you begin, make sure you have the following software installed on your ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VickyTuracoz/turacoz
-   cd turacoz
+   git clone https://github.com/VickySharma13916/blogPoint
+   cd Blogpoint
    ```

@@ -134,7 +134,7 @@ const CoursesTabInfo = ({ handleCourseDetail }) => {
                 <title>
                   {data?.metaTitle
                     ? data?.metaTitle
-                    : "Courses | Turacoz Healthcare Solutions"}
+                    : "Courses | Blogpoint Healthcare Solutions"}
                 </title>
                 {data?.metaDescription && (
                   <meta name="description" content={data?.metaDescription} />
@@ -157,7 +157,7 @@ const CoursesTabInfo = ({ handleCourseDetail }) => {
                 )}
                 <meta property="og:url" content={currentURL} />
                 <meta property="og:type" content="courses" />
-                <meta name="twitter:site" content="@turacoz" />
+                <meta name="twitter:site" content="@Blogpoint" />
                 <meta property="twitter:card" content="summary_large_image" />
                 {data?.metaTitle && (
                   <meta name="twitter:title" content={data?.metaTitle} />
@@ -475,7 +475,7 @@ const CoursesTabInfo = ({ handleCourseDetail }) => {
                           )}
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.email}
@@ -483,7 +483,7 @@ const CoursesTabInfo = ({ handleCourseDetail }) => {
                           </div>
                           <div className="text-lg md:text-xl cursor-pointer">
                             <a
-                              href="mailto:info@turacoz.com"
+                              href="mailto:info@Blogpoint.com"
                               className="no-underline"
                             >
                               {data?.contactInformation?.alternateEmail}
